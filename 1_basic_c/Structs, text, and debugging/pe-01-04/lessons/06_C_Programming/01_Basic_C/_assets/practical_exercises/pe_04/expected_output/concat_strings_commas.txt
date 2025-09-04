@@ -1,0 +1,7 @@
+These are the unique strings
+idx = 0 unique string = this
+idx = 1 unique string = is
+idx = 2 unique string = has
+idx = 3 unique string = some
+idx = 4 unique string = dups
+All as one string: "this, is, has, some, dups"

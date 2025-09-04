@@ -1,0 +1,2 @@
+String is 'Hello there', Length is 11
+String is 'this is a string', Length is 16

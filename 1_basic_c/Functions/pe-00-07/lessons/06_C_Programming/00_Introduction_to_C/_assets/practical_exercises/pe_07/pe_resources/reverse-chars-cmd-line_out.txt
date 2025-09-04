@@ -1,0 +1,6 @@
+Original String: this is a long string
+Reversed String: gnirts gnol a si siht
+Original String: this_not
+Reversed String: ton_siht
+Original String: 3456
+Reversed String: 6543

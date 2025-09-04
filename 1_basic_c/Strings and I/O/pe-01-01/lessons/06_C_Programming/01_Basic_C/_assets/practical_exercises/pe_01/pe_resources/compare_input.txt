@@ -1,0 +1,6 @@
+abcd abcd 0
+abcd abce -1
+abcd abc 1
+abc abcd -1
+ABCD abcd -1
+abcd abcD 1

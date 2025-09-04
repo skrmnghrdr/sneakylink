@@ -1,0 +1,2 @@
+Result of original expression: 11
+Modified expression with spaces: b = a++ + a--

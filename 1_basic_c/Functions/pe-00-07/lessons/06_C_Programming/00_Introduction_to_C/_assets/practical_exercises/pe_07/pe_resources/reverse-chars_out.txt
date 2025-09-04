@@ -1,0 +1,4 @@
+Original String: Hello there
+Reversed String: ereht olleH
+Original String: this is a string
+Reversed String: gnirts a si siht

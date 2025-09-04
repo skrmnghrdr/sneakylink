@@ -1,0 +1,74 @@
+Num letters is 73
+Found an UPPERCASE letter: N and it is a UPPER CASE CONSONANT
+Found a LOWERCASE letter: o and it is a LOWER CASE VOWEL
+Found a LOWERCASE letter: w and it is a LOWER CASE CONSONANT
+Found a PUNCTUATION mark or a SPACE: ,
+Found a PUNCTUATION mark or a SPACE:  
+Found a LOWERCASE letter: t and it is a LOWER CASE CONSONANT
+Found a LOWERCASE letter: h and it is a LOWER CASE CONSONANT
+Found a LOWERCASE letter: i and it is a LOWER CASE VOWEL
+Found a LOWERCASE letter: s and it is a LOWER CASE CONSONANT
+Found a PUNCTUATION mark or a SPACE:  
+Found a LOWERCASE letter: i and it is a LOWER CASE VOWEL
+Found a LOWERCASE letter: s and it is a LOWER CASE CONSONANT
+Found a PUNCTUATION mark or a SPACE:  
+Found a LOWERCASE letter: t and it is a LOWER CASE CONSONANT
+Found a LOWERCASE letter: h and it is a LOWER CASE CONSONANT
+Found a LOWERCASE letter: e and it is a LOWER CASE VOWEL
+Found a PUNCTUATION mark or a SPACE:  
+Found an UPPERCASE letter: T and it is a UPPER CASE CONSONANT
+Found a LOWERCASE letter: i and it is a LOWER CASE VOWEL
+Found a LOWERCASE letter: m and it is a LOWER CASE CONSONANT
+Found a LOWERCASE letter: e and it is a LOWER CASE VOWEL
+Found a PUNCTUATION mark or a SPACE:  
+Found an UPPERCASE letter: F and it is a UPPER CASE CONSONANT
+Found a LOWERCASE letter: o and it is a LOWER CASE VOWEL
+Found a LOWERCASE letter: r and it is a LOWER CASE CONSONANT
+Found a PUNCTUATION mark or a SPACE:  
+Found an UPPERCASE letter: O and it is a UPPER CASE VOWEL
+Found a LOWERCASE letter: u and it is a LOWER CASE VOWEL
+Found a LOWERCASE letter: r and it is a LOWER CASE CONSONANT
+Found a PUNCTUATION mark or a SPACE:  
+Found a LOWERCASE letter: d and it is a LOWER CASE CONSONANT
+Found a LOWERCASE letter: i and it is a LOWER CASE VOWEL
+Found a LOWERCASE letter: s and it is a LOWER CASE CONSONANT
+Found a LOWERCASE letter: c and it is a LOWER CASE CONSONANT
+Found a LOWERCASE letter: o and it is a LOWER CASE VOWEL
+Found a LOWERCASE letter: n and it is a LOWER CASE CONSONANT
+Found a LOWERCASE letter: t and it is a LOWER CASE CONSONANT
+Found a LOWERCASE letter: e and it is a LOWER CASE VOWEL
+Found a LOWERCASE letter: n and it is a LOWER CASE CONSONANT
+Found a LOWERCASE letter: t and it is a LOWER CASE CONSONANT
+Found a PUNCTUATION mark or a SPACE: .
+Found a PUNCTUATION mark or a SPACE:  
+Found an UPPERCASE letter: A and it is a UPPER CASE VOWEL
+Found a LOWERCASE letter: n and it is a LOWER CASE CONSONANT
+Found a LOWERCASE letter: d and it is a LOWER CASE CONSONANT
+Found a PUNCTUATION mark or a SPACE:  
+Found a PUNCTUATION mark or a SPACE: -
+Found a PUNCTUATION mark or a SPACE:  
+Found a LOWERCASE letter: i and it is a LOWER CASE VOWEL
+Found a LOWERCASE letter: t and it is a LOWER CASE CONSONANT
+Found a PUNCTUATION mark or a SPACE:  
+Found a LOWERCASE letter: g and it is a LOWER CASE CONSONANT
+Found a LOWERCASE letter: e and it is a LOWER CASE VOWEL
+Found a LOWERCASE letter: t and it is a LOWER CASE CONSONANT
+Found a LOWERCASE letter: s and it is a LOWER CASE CONSONANT
+Found a PUNCTUATION mark or a SPACE:  
+Found an UPPERCASE letter: W and it is a UPPER CASE CONSONANT
+Found a LOWERCASE letter: o and it is a LOWER CASE VOWEL
+Found a LOWERCASE letter: r and it is a LOWER CASE CONSONANT
+Found a LOWERCASE letter: s and it is a LOWER CASE CONSONANT
+Found a LOWERCASE letter: e and it is a LOWER CASE VOWEL
+Found a PUNCTUATION mark or a SPACE:  
+Found an UPPERCASE letter: A and it is a UPPER CASE VOWEL
+Found a LOWERCASE letter: f and it is a LOWER CASE CONSONANT
+Found a LOWERCASE letter: t and it is a LOWER CASE CONSONANT
+Found a LOWERCASE letter: e and it is a LOWER CASE VOWEL
+Found a LOWERCASE letter: r and it is a LOWER CASE CONSONANT
+Found a PUNCTUATION mark or a SPACE:  
+Found a LOWERCASE letter: t and it is a LOWER CASE CONSONANT
+Found a LOWERCASE letter: h and it is a LOWER CASE CONSONANT
+Found a LOWERCASE letter: i and it is a LOWER CASE VOWEL
+Found a LOWERCASE letter: s and it is a LOWER CASE CONSONANT
+Found a PUNCTUATION mark or a SPACE: !

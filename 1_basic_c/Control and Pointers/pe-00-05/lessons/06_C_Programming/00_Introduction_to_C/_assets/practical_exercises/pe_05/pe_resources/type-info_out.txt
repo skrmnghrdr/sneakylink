@@ -1,0 +1,10 @@
+Char Value: a, size: 1, min: -128, max: 127
+Unsigned Char Value: b, size: 1, min: 0, max: 255
+Short Value: 123, size: 2, min: -32768, max: 32767
+Unsigned Short Value: 456, size: 2, min: 0, max: 65535
+Int Value: 123, size: 4, min: -2147483648, max: 2147483647
+Unsigned Int Value: 456, size: 4, min: 0, max: -1
+Long Value: 123456, size: 8, min: -9223372036854775808, max: 9223372036854775807
+Unsigned Long Value: 789, size: 8, min: 0, max: 18446744073709551615
+Long Long Value: 456789, size: 8, min: -9223372036854775808, max: 9223372036854775807
+Unsigned Long Long Value: 789, size: 8, min: 0, max: 18446744073709551615

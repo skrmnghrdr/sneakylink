@@ -1,0 +1,6 @@
+"Welcome, Helldiver. The ship is yours." "e" 6
+"How'd you like the TASTE of FREEDOM??" " " 7
+"Let 'em HAVE IT! Kill them ALL!" "e" 4
+"Get Sum, Get Someee!!" " " 4
+"Injury? What injury!" "j" 3
+"You've carved another foothold in the long climb to liberty." " " 10

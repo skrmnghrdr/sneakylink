@@ -1,0 +1,2 @@
+In fetch_employee_data. Found employee with id = 12
+In main(). Employee name found: Thor, Odinson

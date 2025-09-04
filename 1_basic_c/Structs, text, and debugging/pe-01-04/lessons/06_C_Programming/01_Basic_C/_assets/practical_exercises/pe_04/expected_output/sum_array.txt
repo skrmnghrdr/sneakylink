@@ -1,0 +1,4 @@
+Number of elements, inner dimension: 2
+Number of elements, outer dimension: 5
+
+The sums of the inner array elements are :110 220 6 9 12 

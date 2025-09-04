@@ -1,0 +1,15 @@
+Original string:
+	this is a long string
+Reversed string:
+	gnirts gnol a si siht
+
+Original string:
+	this_not
+Reversed string:
+	ton_siht
+
+Original string:
+	3456
+Reversed string:
+	6543
+

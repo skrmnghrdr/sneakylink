@@ -1,0 +1,3 @@
+a_num cubed plus 3 plus a_num squared plus a_num with a_num = 10 is 1310
+a_num squared times b_num squared plus the sum of a_num and b_num divided by 2 with a_num = 10 and b_num = 20 is 40015
+The sum of a_num and b_num squared minus the sum of b_num and a_num squared with a_num = 10 and b_num = 20 is 290

@@ -1,0 +1,2 @@
+Celsius 50 is 122 degrees fahrenheit
+Fahrenheit 122 is 50 degrees celsius

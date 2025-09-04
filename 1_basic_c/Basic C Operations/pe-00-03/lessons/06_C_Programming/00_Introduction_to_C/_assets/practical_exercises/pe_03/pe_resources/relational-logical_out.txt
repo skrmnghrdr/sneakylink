@@ -1,0 +1,3 @@
+Result expression 1 is False
+Result expression 2 is True
+Result expression 3 is False

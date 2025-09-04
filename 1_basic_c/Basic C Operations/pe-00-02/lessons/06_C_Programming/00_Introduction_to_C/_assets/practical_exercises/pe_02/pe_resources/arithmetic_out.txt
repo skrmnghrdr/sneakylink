@@ -1,0 +1,4 @@
+The SUM of the numbers 10 and 100 is 110
+The DIFFERENCE of the numbers 10 and 100 is -90
+The SUM of the numbers 1000 and 150 is 1150
+The DIFFERENCE of the numbers 1000 and 150 is 850
